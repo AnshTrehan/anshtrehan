@@ -21,6 +21,9 @@
 ### What can I help with:question::cyclone:
 <code>git commit -m "Pretty much nerd stuffs and electronics!"</code> :grin:
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AasthaGithub&layout=compact&hide=html&theme=radical" alt="Aastha Mehta" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AasthaGithub&show_icons=true&theme=radical" alt="Aastha Mehta" /><br>
+
 ### How to connect with me:question::email:
 <a href="https://www.linkedin.com/in/AnshTrehan/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
