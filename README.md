@@ -26,5 +26,5 @@
 :star: <code>[LinkedIn](https://www.linkedin.com/in/ansh-trehan/)</code>
 :star: <code>[Facebook](https://www.facebook.com/AnshTrehan011)</code>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-trehan&layout=compact&hide=html&theme=radical" alt="ansh-trehan" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-trehan&layout=compact&hide=html&theme=radical" alt="ansh-trehan" />(https://github.com/Ansh-Trehan/)
 
