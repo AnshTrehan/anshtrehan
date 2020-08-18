@@ -25,5 +25,5 @@
 :star: <code>[Mail](mailto:anshtrehan@gmail.com)</code>
 :star: <code>[LinkedIn](https://www.linkedin.com/in/ansh-trehan/)</code>
 :star: <code>[Facebook](https://www.facebook.com/AnshTrehan011)</code>
-<p align="Center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-trehan&layout=compact&hide=html&theme=buefy" alt="ansh-trehan" /></p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-trehan&layout=compact&hide=html&theme=buefy" alt="ansh-trehan" />
