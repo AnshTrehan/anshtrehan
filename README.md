@@ -21,22 +21,17 @@
 ### What can I help with:question::cyclone:
 <code>git commit -m "Pretty much nerd stuffs and electronics!"</code> :grin:
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AasthaGithub&layout=compact&hide=html&theme=radical" alt="Aastha Mehta" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AasthaGithub&show_icons=true&theme=radical" alt="Aastha Mehta" /><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshcasper&layout=compact&hide=html&theme=radical" alt="harshcasper" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshcasper&show_icons=true&theme=radical" alt="harshcasper" />
 
 ### How to connect with me:question::email:
-<a href="https://www.linkedin.com/in/AnshTrehan/">
-  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
+<p align="center">
 </a>
-<a href="https://github.com/Ansh-Trehan/">
-  <img align="left" alt="Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
-</a>
-<a href="https://www.instagram.com/ansh.trehan/">
-  <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png"/>
-</a>
-<a href="mailto:anshtrehan@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
-</a>
-<a href="https://www.facebook.com/AnshTrehan011">
-  <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/android/24/000000/facebook.png"/>
-</a>
+<a href="https://twitter.com/harsh_casper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="harsh_casper" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/harshcasper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshcasper" height="30" width="30" /></a>
+<a href="https://kaggle.com/harshcasper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="harshcasper" height="30" width="30" /></a>
+<a href="https://instagram.com/harshcasper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="harshcasper" height="30" width="30" /></a>
+<a href="https://medium.com/@harshcasper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@harshcasper" height="30" width="30" /></a>
+</p>
