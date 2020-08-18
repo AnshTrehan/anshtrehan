@@ -23,6 +23,18 @@
 <code>git commit -m "Pretty much nerd stuffs and electronics!"</code> :grin:
 
 ### How to connect with me:question::email:
-:star: <code>[Mail](mailto:anshtrehan@gmail.com)</code>
-:star: <code>[LinkedIn](https://www.linkedin.com/in/ansh-trehan/)</code>
-:star: <code>[Facebook](https://www.facebook.com/AnshTrehan011)</code>
+<a href="https://www.linkedin.com/in/AnshTrehan/">
+  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Ansh-Trehan/">
+  <img align="left" alt="Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
+</a>
+<a href="https://www.instagram.com/ansh.trehan/">
+  <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png"/>
+</a>
+<a href="mailto:anshtrehan@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+</a>
+<a href="https://www.facebook.com/AnshTrehan011">
+  <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/android/24/000000/facebook.png"/>
+</a>
