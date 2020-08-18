@@ -16,7 +16,7 @@
 
 ### What are my featured projects:question::rocket:
 <code>[Smart Lighting System](https://github.com/ansh-trehan/Smart-Lighting-System)</code>:bulb:     
-<code>[Number System Converter](https://github.com/ansh-trehan/Number-System-Converter)</code>:hourglass:  
+<code>[Number System Converter](https://github.com/ansh-trehan/Number-System-Converter)</code>:hash:  
 <code>[Hotel Management](https://github.com/ansh-trehan/Hotel-Management-System)</code>:hotel:     
 
 ### What can I help with:question::cyclone:
