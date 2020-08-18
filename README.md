@@ -21,14 +21,11 @@
 ### What can I help with:question::cyclone:
 <code>git commit -m "Pretty much nerd stuffs and electronics!"</code> :grin:
 
+### How to connect with me:question::email:
+:star: <code>[Mail](mailto:anshtrehan@gmail.com)</code>
+:star: <code>[LinkedIn](https://www.linkedin.com/in/ansh-trehan/)</code>
+:star: <code>[Facebook](https://www.facebook.com/AnshTrehan011)</code>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-trehan&layout=compact&hide=html&theme=radical" alt="ansh-trehan" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ansh-trehan&show_icons=true&theme=radical" alt="ansh-trehan" />
-
-<p align="center">
-  
-<a href="https://linkedin.com/in/AnshTrehan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="AnshTrehan" height="30" width="30" /></a>
-<a href="https://facebook.com/AnshTrehan011" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="AnshTrehan011" height="30" width="30" /></a>
-<a href="mailto:anshtrehan@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail.svg" alt="anshtrehan@gmail.com" height="30" width="30" /></a>
-<a href="https://instagram.com/ansh.trehan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ansh.trehan" height="30" width="30" /></a>
-</p>
