@@ -9,7 +9,7 @@
 ### Wanna stalk my website:question::point_right: [Click Here](https://ansh-trehan.github.io/):sparkles:
 
 ### Who am I:question: :technologist:
-<code>git commit -m "Hello, I'm a Software Engineering Associate and a Technology Enthusiast"</code>
+<code>git commit -m "Hello, I'm a Computer Science & Engineering Student and a Technology Enthusiast"</code>
   
 ### What am I learning:question::point_down:	
 <code>var topics = ["IoT" , "C/C++" , "Python"];</code>
