@@ -3,7 +3,6 @@
 </p>
  
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-[![Github](https://img.shields.io/github/last-commit/Ansh-Trehan/Ansh-Trehan)](https://github.com/Ansh-Trehan)
 
 ### Wanna stalk my website:question::point_right: [Click Here](https://ansh-trehan.github.io/):sparkles:
 
