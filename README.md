@@ -25,4 +25,3 @@
 :star: <code>[LinkedIn](https://www.linkedin.com/in/ansh-trehan/)</code>
 :star: <code>[Facebook](https://www.facebook.com/AnshTrehan011)</code><br>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshTrehan&layout=compact&theme=buefy&hide_border=true" alt="AnshTrehan" />
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnshTrehan)](https://github.com/ryo-ma/github-profile-trophy)
